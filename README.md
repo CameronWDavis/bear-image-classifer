@@ -29,7 +29,7 @@ uvicorn main:app --reload
 ```
 
 If the server started correctly it should look like this below. 
-
+```
 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to 
 INFO: Started reloader process [30708] using WatchFiles 
 1/1 [==============================] - 0s 150ms/step 
@@ -37,7 +37,7 @@ Predicted class: grizzly
 INFO: Started server process [25568] 
 INFO: Waiting for application startup. 
 INFO: Application startup complete.
-
+```
 #Setup for the Front end
 1. Change directory to the view folder by typing in 
 ```
@@ -53,4 +53,4 @@ npm install axios
 npm start
 ```
 This will bring up a website from here click the upload button this will show your file system from here go to the folder where this file is stores and you can use 
-images from the bear testing directory provided in these files
+images from the bear testing directory provided in these files.
