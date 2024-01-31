@@ -38,7 +38,7 @@ INFO: Started server process [25568]
 INFO: Waiting for application startup. 
 INFO: Application startup complete.
 ```
-#Setup for the Front end
+# Set up for the frontend
 1. Change directory to the view folder by typing in 
 ```
 cd view
